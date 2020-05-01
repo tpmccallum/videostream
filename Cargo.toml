@@ -9,7 +9,8 @@ readme = "README.md"
 
 [dependencies]
 # image = "0"
-ffmpeg = {git = "https://github.com/meh/rust-ffmpeg"}
+ffmpeg = {git = "https://github.com/tpmccallum/rust-ffmpeg"}
+# ffmpeg = {git = "https://github.com/meh/rust-ffmpeg"}
 # ffmpeg = "~0.1" This crate is out of date, git is more recent
 image = "~0.23"
 
