@@ -13,6 +13,7 @@ ffmpeg = {git = "https://github.com/tpmccallum/rust-ffmpeg"}
 # ffmpeg = {git = "https://github.com/meh/rust-ffmpeg"}
 # ffmpeg = "~0.1" This crate is out of date, git is more recent
 image = "~0.23"
+bindgen = "0.53.2"
 
 #[dev-dependencies]
 # rustface = "*"
